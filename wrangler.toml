@@ -1,0 +1,9 @@
+name = "royaltrack"
+compatibility_date = "2024-01-01"
+pages_build_output_dir = "dist"
+
+[vars]
+GROQ_API_KEY = ""
+GITHUB_TOKEN = ""
+GITHUB_REPO = "lazprof/royaltrack-data"
+GITHUB_BRANCH = "main"
