@@ -3,7 +3,7 @@ compatibility_date = "2024-01-01"
 pages_build_output_dir = "dist"
 
 [vars]
-GROQ_API_KEY = ""
-GITHUB_TOKEN = ""
+GROQ_API_KEY = "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"
+GITHUB_TOKEN = "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"
 GITHUB_REPO = "lazprof/royaltrack-data"
 GITHUB_BRANCH = "main"
